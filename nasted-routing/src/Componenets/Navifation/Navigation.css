@@ -1,0 +1,21 @@
+.nav-container ul
+{
+    padding: 20px;
+}
+.nav-container ul li 
+{
+    list-style: none;
+    padding: 10px 10px;
+    text-decoration: none;
+    background-color: aliceblue;
+    margin: 10px 0px;
+    border-radius: 5px;
+    
+  
+    
+}
+.nav-container ul li link
+{
+    text-decoration: none!important;
+    
+}

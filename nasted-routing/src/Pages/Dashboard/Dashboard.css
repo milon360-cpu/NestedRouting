@@ -1,0 +1,12 @@
+.dashboard 
+{
+    background-color: aliceblue;
+    height: 100vh;
+    overflow: hidden;
+}
+.dashboard-menu nav 
+{
+    background-color: white;
+    height: 100vh;
+    overflow: auto;
+}
